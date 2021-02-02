@@ -4,7 +4,6 @@ This is a Jekyll website template designed for Explorer Fellows. During the Fell
 
 This can also be used for Open Source and Externship Fellows but you might need to make some tweaks.
 
-## Make your own!
 
 1. Fork this repository or use the Template button.
 2. Update `_config.yml` to contain your information.
